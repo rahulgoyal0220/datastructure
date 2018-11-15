@@ -49,8 +49,6 @@ public class RemoveDuplicateInList {
                 curr = curr.next;
             }
         }
-
-
         return start;
     }
 }

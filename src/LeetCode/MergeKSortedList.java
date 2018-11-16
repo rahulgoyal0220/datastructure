@@ -1,4 +1,4 @@
-package com.outlook;
+package LeetCode;
 
 public class MergeKSortedList {
 
